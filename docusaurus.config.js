@@ -70,6 +70,7 @@ const config = {
             label: '文档',
           },
           {to: '/blog', label: '博客', position: 'left'},
+          {href: 'https://chat.zetaa.cc', label: 'Chat', position: 'left'},
           {
             href: 'https://github.com/zetaacc/website',
             label: 'GitHub',
