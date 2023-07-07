@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Zetaa', // Usually your GitHub org/user name.
-  projectName: 'Zetaa', // Usually your repo name.
+  //organizationName: 'zetaacc', // Usually your GitHub org/user name.
+  //projectName: 'website', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -70,7 +70,7 @@ const config = {
             label: '文档',
           },
           {to: '/blog', label: '博客', position: 'left'},
-          {href: 'https://chat.zetaa.cc', label: 'Chat', position: 'left'},
+          {href: 'https://chat.zetaa.cc', label: 'ChatGPT', position: 'left'},
           {
             href: 'https://github.com/zetaacc/website',
             label: 'GitHub',
