@@ -82,28 +82,32 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '文档',
+            title: '站内链接',
             items: [
               {
-                label: '教程',
+                label: '文档',
                 to: '/docs/intro',
+              },
+              {
+                label: '博客',
+                to: '/blog',
               },
             ],
           },
           {
-            title: '社区',
+            title: '站外链接',
             items: [
               {
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/',
               },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/',
+                            {
+                label: 'Slack',
+                href: 'https://slack.com/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/',
+                label: 'Discord',
+                href: 'https://discord.com/',
               },
             ],
           },
@@ -111,17 +115,17 @@ const config = {
             title: '更多',
             items: [
               {
-                label: '博客',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
                 href: 'https://github.com/zetaacc/website',
+              },
+              {
+                label: 'ChatGPT',
+                href: 'https://chat.zetaa.cc/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Zetaa. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Zetaa  本站骄傲地使用 Docusaurus 搭建。`,
       },
       prism: {
         theme: lightCodeTheme,
