@@ -5,11 +5,11 @@ authors: [node,]
 tags: [k8s,cloud native,开源,平台工程,数理话,上海]
 ---
 
-图片
+![KubeCon key vision](640-1.png)
 
 云原生计算基金会 CNCF(https://www.cncf.io) 的旗舰会议将于2023年9月26日至28日在中国上海召开，聚集了来自领先的开源和云原生社区的采用者和技术人员。加入CNCF毕业和孵化项目（https://www.cncf.io/projects/），与社区一起共聚三天，推动云原生计算的教育和发展。
 
-图片
+![KubeCon Schedule](640-2.png)
 
 浏览会议官网，[查看详细日程](https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/program/schedule/)
 
@@ -28,10 +28,12 @@ tags: [k8s,cloud native,开源,平台工程,数理话,上海]
 ### Day 2: 9/27 
 - 上午 在 【平台工程】专题学习，以及社交（希望为平台工程社区纳新），
 
-图片
+![Platform Engineering](640-3.png)
+
+
 - 下午 参加 【社区 + OSPO + 开放治理 | Community + OSPO + Open Governance】专题的学习，以及社交（会见到很多开源圈特别是OSPO的同行）
 
-图片
+![OSPO](640-4.png)
 
 - 晚上 参加 TODO Group 组织的 BoF 活动。
 
@@ -40,7 +42,7 @@ tags: [k8s,cloud native,开源,平台工程,数理话,上海]
 
 - 上午 在 【平台工程】专题学习，并于11点进行我自己的分享，
 
-图片
+![Platform Engineering DevEx](640-5.png)
 
 - 下午 在【平台工程】专题学习，以及社交。
 - 晚上 上海飞回深圳。（第二天就放国庆长假了，本次是全神贯注参会，毫无空隙时间去逗留或与在上海的亲朋见面 :）
