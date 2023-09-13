@@ -30,8 +30,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`欢迎 Welcome | ${siteConfig.title}`}
+      description="Zetaa.cc | 个人网站，博客，文档，项目 ｜ 技术领导力，软件工程，软件过程，DevOps，平台工程，开源，OSPO，社区领导力，工程师体验，EngEx ｜ 数理话：数学，科学，技术，工程，科幻｜">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
