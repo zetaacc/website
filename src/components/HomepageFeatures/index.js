@@ -28,6 +28,7 @@ const FeatureList = [
         共建开放包容、创新自治、多元中立的沟通交流与协作平台。
         <br/><br/>
         <a href="https://github.com/pecommunity/" target="_blank">点击去看看</a>
+        <img src="static/img/platform-arqcode_430.jpg" width="100"/>
       </>
     ),
   },
@@ -40,6 +41,7 @@ const FeatureList = [
         Smart is sexy forever.
         <br/><br/>
         微信搜索"数理话"关注，亦可关注<a href="https://www.zhihu.com/column/c_1347108242091438080" target="_blank">知乎</a>、<a href="https://space.bilibili.com/478478184" target="_blank">B站</a>。
+        <img src="static/img/scibuzz-qr.png" width="120"/>
       </>
     ),
   },
