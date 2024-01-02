@@ -129,7 +129,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Zetaa  本站骄傲地使用 Docusaurus 搭建。`,
+        copyright: `Copyright © 2023~${new Date().getFullYear()} Zetaa  本站骄傲地使用 Docusaurus 搭建。`,
       },
       prism: {
         theme: lightCodeTheme,
