@@ -71,9 +71,9 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: '文档',
+            label: '关注领域',
           },
-          {to: '/blog', label: '博客', position: 'left'},
+          {to: '/blog', label: '博客文章', position: 'left'},
           {href: 'https://chat.zetaa.cc', label: 'ChatGPT', position: 'left'},
           {
             href: 'https://github.com/zetaacc/website',
