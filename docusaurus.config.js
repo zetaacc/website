@@ -89,11 +89,11 @@ const config = {
             title: '站内链接',
             items: [
               {
-                label: '文档',
+                label: '关注领域',
                 to: '/docs/intro',
               },
               {
-                label: '博客',
+                label: '博客文章',
                 to: '/blog',
               },
             ],
@@ -102,10 +102,14 @@ const config = {
             title: '站外链接',
             items: [
               {
+                label: 'GitHub',
+                href: 'https://github.com/',
+              },
+              {
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/',
               },
-                            {
+              {
                 label: 'Slack',
                 href: 'https://slack.com/',
               },
