@@ -64,7 +64,7 @@ const config = {
         title: 'Zetaa',
         logo: {
           alt: 'Zetaa Logo',
-          src: 'img/logo.svg',
+          src: 'img/zetaa-logo.png',
         },
         items: [
           {
