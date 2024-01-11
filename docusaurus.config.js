@@ -117,6 +117,10 @@ const config = {
                 label: 'Discord',
                 href: 'https://discord.com/',
               },
+              {
+                label: 'dev.to',
+                href: 'https://dev.to/',
+              }
             ],
           },
           {
