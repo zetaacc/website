@@ -1,8 +1,8 @@
 ---
 slug: open-org
-title: 开放式领导力定义 Open Leadership Definition
+title: 开放式组织定义 The Open Organization Definition
 authors: [node,]
-tags: [开放式领导力,开放,领导力,开放式组织,定义,开源,数理话]
+tags: [开放式组织,开放,组织,定义,开源,数理话]
 ---
 
 开放式组织是一个社区驱动的项目，旨在引导全球对话，讨论开放原则如何改变人们的工作、管理和领导方式。其聚集并提供了关于开放式组织的很多资源，初期内容源自红帽的分享和实践。
