@@ -11,6 +11,9 @@ tags: [OSPO,开源,开源办公室,漫画,数理话]
 日本OSPO Summit 2023上的一个Panel开始前，有一个简短的分享，主要介绍了 OSPO 漫画及OSPO常见问题。
 
 ![OSPO comic](CAPTURE_202414_172617.jpg)
+
+<!-- truncate -->
+
 ![OSPO comic](CAPTURE_202414_172556.jpg)
 ![OSPO comic 1](OSPOmangaEnglishversion1.png)
 ![OSPO comic 2](OSPOmangaEnglishversion2.png)
