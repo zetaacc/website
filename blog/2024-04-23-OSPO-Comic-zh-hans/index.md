@@ -10,6 +10,7 @@ tags: [OSPO,开源,开源办公室,开源项目,漫画,数理话]
 
 #### OSPO = Open Source Program Office，即 开源项目办公室，也称为开源办公室。
 
+<!-- truncate -->
 
 ![OSPOmangaEnglishversion1-zh-hans.png](OSPOmangaEnglishversion1-zh-hans.png)
 ![OSPOmangaEnglishversion2-zh-hans.png](OSPOmangaEnglishversion2-zh-hans.png)
