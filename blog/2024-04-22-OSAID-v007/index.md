@@ -40,7 +40,7 @@ https://discuss.opensource.org/t/draft-v-0-0-7-of-the-open-source-ai-definition-
 
 关于人工智能系统定义的更多信息，请访问 OSI 博客（https://blog.opensource.org/open-source-ai-establishing-a-common-ground/）。
 
-
+<!-- truncate -->
 
 ## 前言
 
