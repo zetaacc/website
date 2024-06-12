@@ -76,6 +76,7 @@ const config = {
             label: '关注领域',
           },
           {to: '/blog', label: '博客文章', position: 'left'},
+          {to: '/about', label: '关于博主', position: 'left'},
           {href: 'https://chat.zetaa.cc', label: 'ChatGPT', position: 'left'},
           {
             href: 'https://github.com/zetaacc/website',
@@ -97,6 +98,10 @@ const config = {
               {
                 label: '博客文章',
                 to: '/blog',
+              },
+              {
+                label: '关于博主',
+                to: '/about',
               },
             ],
           },
