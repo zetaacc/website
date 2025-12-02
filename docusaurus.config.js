@@ -101,6 +101,10 @@ const config = {
                 to: '/blog',
               },
               {
+                label: '项目作品',
+                to: '/works',
+              },
+              {
                 label: '关于博主',
                 to: '/about',
               },
