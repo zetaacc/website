@@ -7,10 +7,13 @@ description: Work List | 各种作品与小项目集合
 
 ## 开源 | 平台工程与开发者体验
 
-- OSPO 内部网站 <https://ospov0.vercel.app/>
+- OSPO CC : OSPO 中文社区 <https://ospo.cc/>
+  - OSPO 内部网站 <https://ospov0.vercel.app/>
+  - OSPO 与开源主题 微信表情包：在表情商店搜索 奥斯波 
 - DXCP 开发者体验中心 计划 <https://dxcp.pages.dev/> | <https://dxcp.vercel.app/> GitHub <https://github.com/DXCP>
 - PECommunity 平台工程社区 <https://pecommunity.cn/> GitHub <http://github.com/pecommunity/>
 - 平台之道 <https://platformers.cn/>
+- 开源人嘴替 <https://ospo-meme-gen-547512703726.us-west1.run.app/>
 
 ## 工具类 
 
@@ -29,13 +32,15 @@ description: Work List | 各种作品与小项目集合
 - v0101 : v0.app 中文指南 <https://v0101.vercel.app/>
 - OSPO 中文社区 : <https://ospo.pages.dev/> | <https://ospocc.vercel.app/>
 
-## 小游戏与运动
+## 小游戏与运动娱乐
 
 - 汉诺塔 <https://hanoigame.vercel.app/>
 - 24点 <https://point24.vercel.app/>
 - 数独 <https://xsudo.vercel.app/>
 - MF100 ： 山野100天 野外生存主题游戏 <http://mf100.vercel.app/> 
 - 10大运动知识与水平自测： <https://x01.vercel.app/>
+- 拍立得相机 <https://retrosnap-547512703726.us-west1.run.app/>
+- Javis AR <https://jarvis-547512703726.us-west1.run.app/>
 
 ## 业余无线电
 
