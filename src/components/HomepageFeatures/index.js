@@ -4,6 +4,52 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
+    title: 'AAIF Shenzhen Chapter',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        AAIF 深圳 是 AAIF开源基金会全球社区的一部分。
+        旨在通过开放协作来开发和维护一个开源领域的公共知识地图，
+        用于指导个人及组织学习、研究、使用、参与贡献开源，
+        以及创建自己的开源项目与社区，制定自己的开源战略，
+        从而推动实现开源生态的可持续发展。
+        <br/><br/>
+        <a href="https://github.com/aaif-shenzhen" target="_blank">社区GitHub</a>
+        <br/><br/>
+        <a href="https://luma.com/aaif-shenzhen" target="_blank">社区活动</a>
+      </>
+    ),
+  },
+  {
+    title: 'OSPO.cc :: OSPO中文社区',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        OSKM ~ Knowledge Map of Open Source 开源知识地图，
+        旨在通过开放协作来开发和维护一个开源领域的公共知识地图，
+        用于指导个人及组织学习、研究、使用、参与贡献开源，
+        以及创建自己的开源项目与社区，制定自己的开源战略，
+        从而推动实现开源生态的可持续发展。
+        <br/><br/>
+        <a href="https://github.com/OpenSourceKM" target="_blank">访问项目GitHub</a>
+      </>
+    ),
+  },
+  {
+    title: 'DXCP.org :: 开发者体验中心',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        DXC ~ Developer Experience Center，即开发者体验中心。
+        DXC计划（DXCP）旨在通过倡导与时俱进的开发者体验最佳实践，
+        建设同行网络共同探索、分享开发者体验的理论、方法、工具
+        与实践案例，从而促进技术生态的持续发展和繁荣。
+        <br/><br/>
+        <a href="https://github.com/OpenSourceKM" target="_blank">访问项目GitHub</a>
+      </>
+    ),
+  },
+  {
     title: '项目：OSKM 开源知识地图',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
@@ -19,7 +65,7 @@ const FeatureList = [
     ),
   },
   {
-    title: '社区：平台工程社区·中国',
+    title: 'PECommunity平台工程社区',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
