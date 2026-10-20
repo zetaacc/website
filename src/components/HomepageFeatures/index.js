@@ -20,6 +20,34 @@ const FeatureList = [
       </>
     ),
   },
+    {
+    title: 'PECommunity平台工程社区',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    description: (
+      <>
+        平台工程社区，为开发者而生！
+        聚集平台工程的倡导者、实践者、参与者、关注者，
+        共建开放包容、创新自治、多元中立的沟通交流与协作平台。
+        <br/><br/>
+        <a href="https://pecommunity.cn/" target="_blank">社区官网</a> | <a href="https://github.com/pecommunity/" target="_blank">社区GitHub</a>
+        <br/><img src="img/platform-qrcode_430.jpg" width="150"/><br/>@平台工程洞察
+      </>
+    ),
+  },
+  {
+    title: '关注：@数理话',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <>
+        关于数理、代码、科学、技术、工程以及科幻 ！
+        Smart is sexy forever.
+        <br/><br/>
+        微信搜索"数理话"关注，亦可关注<a href="https://www.zhihu.com/column/c_1347108242091438080" target="_blank">知乎</a>、<a href="https://space.bilibili.com/478478184" target="_blank">B站</a>。
+        <br/>  
+        <br/><img src="img/scibuzz-qr.png" width="150"/><br/>@数理话 
+      </>
+    ),
+  },
   {
     title: 'OSPO.cc :: OSPO中文社区',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
@@ -61,34 +89,6 @@ const FeatureList = [
         从而推动实现开源生态的可持续发展。
         <br/><br/>
         <a href="https://github.com/OpenSourceKM" target="_blank">访问项目GitHub</a>
-      </>
-    ),
-  },
-  {
-    title: 'PECommunity平台工程社区',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        平台工程社区，为开发者而生！
-        聚集平台工程的倡导者、实践者、参与者、关注者，
-        共建开放包容、创新自治、多元中立的沟通交流与协作平台。
-        <br/><br/>
-        <a href="https://pecommunity.cn/" target="_blank">社区官网</a> | <a href="https://github.com/pecommunity/" target="_blank">社区GitHub</a>
-        <br/><img src="img/platform-qrcode_430.jpg" width="150"/><br/>@平台工程洞察
-      </>
-    ),
-  },
-  {
-    title: '关注：@数理话',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        关于数理、代码、科学、技术、工程以及科幻 ！
-        Smart is sexy forever.
-        <br/><br/>
-        微信搜索"数理话"关注，亦可关注<a href="https://www.zhihu.com/column/c_1347108242091438080" target="_blank">知乎</a>、<a href="https://space.bilibili.com/478478184" target="_blank">B站</a>。
-        <br/>  
-        <br/><img src="img/scibuzz-qr.png" width="150"/><br/>@数理话 
       </>
     ),
   },
